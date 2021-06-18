@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c87f380a-b9c8-4741-8fb0-14aaec40106c" name="Default Changelist" comment="fixed git project directory" />
+    <list default="true" id="c87f380a-b9c8-4741-8fb0-14aaec40106c" name="Default Changelist" comment="added necessary files">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +55,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -113,6 +116,7 @@
       <workItem from="1623913142980" duration="14446000" />
       <workItem from="1624000087046" duration="10323000" />
       <workItem from="1624010648945" duration="98000" />
+      <workItem from="1624010763102" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="Added all basic functionality">
       <created>1624009732466</created>
@@ -142,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624010391659</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added necessary files">
+      <created>1624011068005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624011068005</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +178,8 @@
     </ignored-roots>
     <MESSAGE value="Added all basic functionality" />
     <MESSAGE value="fixed git project directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed git project directory" />
+    <MESSAGE value="added necessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added necessary files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
